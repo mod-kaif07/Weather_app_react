@@ -1,8 +1,7 @@
 # 🌦️ Weather App using React + Vite
 
 This is a modern and responsive weather application built using **React** with **Vite** as the build tool. It allows users to fetch and view real-time weather information by entering a city name.
-
-![Weather App Preview](./0512d2c2-b9c6-4aee-b51f-773dc4f7e852.png)
+Screenshot 2025-07-27 124006
 
 ---
 
