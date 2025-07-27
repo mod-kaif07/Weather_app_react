@@ -2,7 +2,7 @@
 
 This is a modern and responsive weather application built using **React** with **Vite** as the build tool. It allows users to fetch and view real-time weather information by entering a city name.
 
-<img width="1120" height="500" alt="Screenshot 2025-07-27 124006" src="https://github.com/user-attachments/assets/3bbc234c-8dc4-4302-920c-ea64bb855e32" />
+<img width="720" height="300" alt="Screenshot 2025-07-27 124006" src="https://github.com/user-attachments/assets/3bbc234c-8dc4-4302-920c-ea64bb855e32" />
 
 ---
 
